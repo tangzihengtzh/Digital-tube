@@ -1,5 +1,5 @@
-将两个文件放在一起即可
-module seven_segment_display(
+将两个文件放在一起即可<br>
+module seven_segment_display(<br>
     input wire reset,
     input wire clk,
     input wire [7:0] datain1,
